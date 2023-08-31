@@ -4,7 +4,7 @@
 
 ## Getting started
 
-Aplikacja stworzna we współpracy z Artur Karczewski na potrzeby praktyk w firmie Ekoenergetyka - Polska S.A.
+Aplikacja stworzna we współpracy z Artur Karczewski oraz Hubert Jackowski na potrzeby praktyk w firmie Ekoenergetyka - Polska S.A.
 
 ## Testy
 
