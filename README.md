@@ -18,4 +18,4 @@ Możliwa jest dockeryzacja aplikacji i odpalenie jej w kontenerze. Wszystkie skr
 
 Do poprawnego działania aplikacji niezbędne jest dodanie urządznia do bazy danych oraz kontakt z urządzeniem zewnętrznym, w naszym przypadku była to płytka ESP32 z lokalizatorem.
 
-Kod do ESP https://gitfront.io/r/PiotrPecuch/iYgygi1NG1SQ/GPStrackerESP32/
+Kod do ESP https://github.com/pustelnik17/GPS-tracker-ESP32
